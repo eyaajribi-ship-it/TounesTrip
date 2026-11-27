@@ -121,4 +121,4 @@ Le backend envoie à Gemini une consigne qui contient le **catalogue TounesTrip*
 
 ## Auteure
 
-Eya Ajribi – ISET Zaghouan
+Eya Jeribi – ISET Zaghouan
